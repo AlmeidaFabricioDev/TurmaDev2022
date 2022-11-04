@@ -1,0 +1,15 @@
+C:\Users\Administrator\VisualStudio\CodigoFonte\NewEnumExercise\bin\Debug\net6.0\NewEnumExercise.exe
+C:\Users\Administrator\VisualStudio\CodigoFonte\NewEnumExercise\bin\Debug\net6.0\NewEnumExercise.deps.json
+C:\Users\Administrator\VisualStudio\CodigoFonte\NewEnumExercise\bin\Debug\net6.0\NewEnumExercise.runtimeconfig.json
+C:\Users\Administrator\VisualStudio\CodigoFonte\NewEnumExercise\bin\Debug\net6.0\NewEnumExercise.dll
+C:\Users\Administrator\VisualStudio\CodigoFonte\NewEnumExercise\bin\Debug\net6.0\NewEnumExercise.pdb
+C:\Users\Administrator\VisualStudio\CodigoFonte\NewEnumExercise\obj\Debug\net6.0\NewEnumExercise.csproj.AssemblyReference.cache
+C:\Users\Administrator\VisualStudio\CodigoFonte\NewEnumExercise\obj\Debug\net6.0\NewEnumExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\VisualStudio\CodigoFonte\NewEnumExercise\obj\Debug\net6.0\NewEnumExercise.AssemblyInfoInputs.cache
+C:\Users\Administrator\VisualStudio\CodigoFonte\NewEnumExercise\obj\Debug\net6.0\NewEnumExercise.AssemblyInfo.cs
+C:\Users\Administrator\VisualStudio\CodigoFonte\NewEnumExercise\obj\Debug\net6.0\NewEnumExercise.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\VisualStudio\CodigoFonte\NewEnumExercise\obj\Debug\net6.0\NewEnumExercise.dll
+C:\Users\Administrator\VisualStudio\CodigoFonte\NewEnumExercise\obj\Debug\net6.0\refint\NewEnumExercise.dll
+C:\Users\Administrator\VisualStudio\CodigoFonte\NewEnumExercise\obj\Debug\net6.0\NewEnumExercise.pdb
+C:\Users\Administrator\VisualStudio\CodigoFonte\NewEnumExercise\obj\Debug\net6.0\NewEnumExercise.genruntimeconfig.cache
+C:\Users\Administrator\VisualStudio\CodigoFonte\NewEnumExercise\obj\Debug\net6.0\ref\NewEnumExercise.dll
